@@ -1,6 +1,3 @@
 Ladding Page - Página Inicial - Tema: Fone de Ouvido/Eletrônicos
 
-
-Desenvolvido por:
-
-https://github.com/FabianoLp
+Veja uma demo online - https://soundphone.netlify.app/
